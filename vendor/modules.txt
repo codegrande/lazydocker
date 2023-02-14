@@ -40,7 +40,7 @@ github.com/docker/go-units
 github.com/fatih/color
 # github.com/go-errors/errors v1.0.1
 github.com/go-errors/errors
-# github.com/gogo/protobuf v1.2.1
+# github.com/gogo/protobuf v1.3.2
 github.com/gogo/protobuf/proto
 # github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3
 github.com/golang-collections/collections/stack
@@ -87,14 +87,15 @@ github.com/sirupsen/logrus
 github.com/spkg/bom
 # github.com/stretchr/testify v1.2.2
 github.com/stretchr/testify/assert
-# golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+# golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 golang.org/x/crypto/ssh/terminal
-# golang.org/x/net v0.0.0-20190311183353-d8887717615a
+# golang.org/x/net v0.0.0-20201021035429-f5854403a974
 golang.org/x/net/internal/socks
 golang.org/x/net/proxy
-# golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a
+# golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
+golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
-# golang.org/x/xerrors v0.0.0-20190717185122-a985d3407aa7
+# golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 golang.org/x/xerrors
 golang.org/x/xerrors/internal
